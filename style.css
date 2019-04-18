@@ -1,0 +1,63 @@
+
+a{
+    color: #369;
+}
+
+#logo{
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+#logo a{
+    text-decoration: none; 
+}
+
+body{
+    font-family: "avenir next";
+}
+
+nav{
+    border-bottom: 1px solid rgb(136,136,136,.4);
+}
+
+section{
+    max-width: 760px;
+    margin: auto;
+    color:#484848;
+}
+
+#time{
+    color: #888;
+    font-family: monospace;
+    margin-top:20px;
+    font-size: 15px;
+}
+
+#breakfast{
+    width: 100%;
+}
+
+h1{
+    font-size: 35px;
+    margin-top: 15px;  
+}
+
+.quote{
+    font-family: Monospace;
+    background-color:#f0f0f0;
+    padding: 20px;
+    line-height: 1.5;
+    font-size: 15px;
+    color: black;
+}
+
+footer{
+    color:#888;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+html{
+    background-color: rgb(249,249,249);
+}
